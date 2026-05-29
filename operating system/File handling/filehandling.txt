@@ -1,0 +1,1 @@
+File handling is the process of creating, reading, writing, updating, and deleting files in a computer system using a program.

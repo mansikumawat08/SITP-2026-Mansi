@@ -1,0 +1,25 @@
+#1
+name = "Mansi"
+course = "data analytics"
+city = "Ajmer"
+
+print(f" my name is{name} and i am from {city} and i am studying {course}")
+
+
+#2
+name = input("enter your name: ")
+age = input("enter your age: ")
+
+print("hello",name, "you are",age,"years old")
+
+
+#3
+text =input("enter a string: ")
+
+reverse_text = text[::-1]
+
+count = len(text)
+
+print("reverse string is: ",reverse_text)
+print("total characters are: ",count)
+
